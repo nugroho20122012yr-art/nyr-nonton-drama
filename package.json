@@ -1,0 +1,7 @@
+{
+  "name": "nyr-nonton-melolo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Nyr Nonton Melolo - web nonton drama (Neo Brutalism)",
+  "engines": { "node": ">=18" }
+}
